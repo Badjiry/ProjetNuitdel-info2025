@@ -1,4 +1,6 @@
 # 🎯 Défi Ergonomie - Nuit de l'Info 2025
+Lien de l'équipe dans lequel j'ai participé à cet évènement avec mon établissement IUT de Villetaneuse Paris Nord :
+https://www.nuitdelinfo.com/inscription/equipes/241 
 **Sopra Steria Mérignac**
 
 > "Si une machine doit être notre servante, elle doit être conçue pour être facile à utiliser." — Donald Norman
