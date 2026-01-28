@@ -1,6 +1,9 @@
 # 🎯 Défi Ergonomie - Nuit de l'Info 2025
 Lien de l'équipe dans lequel j'ai participé à cet évènement avec mon établissement IUT de Villetaneuse Paris Nord :
 https://www.nuitdelinfo.com/inscription/equipes/241 
+
+La Nuit de l’Info 2025 s’est tenue dans la nuit du jeudi 4 au vendredi 5 décembre 2025. C’est une compétition nationale et conviviale qui réunit des milliers d’étudiants, enseignants et entreprises autour d’un défi : concevoir et développer une application web en une seule nuit, du coucher au lever du soleil. Chaque équipe doit travailler sur un sujet national imposé ainsi que sur des défis proposés par des partenaires (ergonomie, accessibilité, extensions, etc.) dans une ambiance de collaboration, de créativité, de code, de pizzas et de café. Des prix sont ensuite attribués aux projets les plus réussis par des jurys.
+
 **Sopra Steria Mérignac**
 
 > "Si une machine doit être notre servante, elle doit être conçue pour être facile à utiliser." — Donald Norman
